@@ -12,7 +12,7 @@ pip2 install requests bs4
 
 pip2 install futures
 
-apt install git git clone https://github.com/SAVAGE-FUNDZ/PAID.git
+apt install git git clone https://github.com/Ghostedwizard/META
 
 # RUN SCRIPT
 cd PAID git pull python2 Paid.py
